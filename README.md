@@ -1,2 +1,0 @@
-# masterrepos
-Server SDK
